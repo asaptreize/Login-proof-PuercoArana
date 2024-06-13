@@ -1,0 +1,35 @@
+# Programa Simulado de Inicio de Sesión (Login)
+# Este programa simula una interfaz de inicio de sesión y su funcionamiento básico.
+
+# Importamos las librerías necesarias para crear la interfaz gráfica
+
+# Función para manejar el evento de inicio de sesión
+    # Obtenemos el texto ingresado en el campo de usuario
+    # Obtenemos el texto ingresado en el campo de contraseña
+    
+    # Validamos el usuario y la contraseña
+        # Mostramos un mensaje de éxito
+        # Mostramos un mensaje de error
+
+# Configuración de la ventana principal
+    # Título de la ventana
+    # Tamaño de la ventana
+
+# Creación de etiquetas y campos de entrada
+    # Etiqueta para el campo de usuario
+    # Agregamos la etiqueta a la ventana con un pequeño margen vertical
+
+    # Campo de entrada para el usuario
+    # Agregamos el campo de entrada a la ventana
+
+    # Etiqueta para el campo de contraseña
+    # Agregamos la etiqueta a la ventana con un pequeño margen vertical
+
+    # Campo de entrada para la contraseña, con ocultación de caracteres
+    # Agregamos el campo de entrada a la ventana
+
+# Creación del botón de inicio de sesión
+    # Botón que llama a la función login cuando se presiona
+    # Agregamos el botón a la ventana con un margen vertical mayor
+
+# Bucle principal de la aplicación
